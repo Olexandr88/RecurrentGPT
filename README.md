@@ -68,7 +68,7 @@ python gradio_server.py
 ![web-demo](resources/web_demo.png)
 
 ## Use customized LLMs for local deployment
-Please refer to https://github.com/jackaduma/Recurrent-LLM to use opensource LLMs for local deployment. Many thanks to @jackaduma 
+Please refer to https://github.com/jackaduma/Recurrent-LLM to use opensource LLMs for local deployment. Many thanks to [@jackaduma](https://github.com/jackaduma)
 
 ## Citation
 ```angular2
